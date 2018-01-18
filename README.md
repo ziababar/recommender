@@ -32,7 +32,7 @@ Recommendation Systems series for the Waterloo Data Science and Data Engineering
   - (2) Building Recommendation Models
   - (3) Productizing Recommendation Systems
 
-## Environment and Setup (10 minutes)
+## Environment and Setup (20 minutes)
 - Azure Notebook
 - Python
 - Pandas
@@ -45,8 +45,7 @@ Recommendation Systems series for the Waterloo Data Science and Data Engineering
   - https://github.com/practical-recommender-systems/moviegeek
   - https://cambridgespark.com/content/tutorials/implementing-your-own-recommender-systems-in-Python/index.html
   
-
-## Session 1: Introducing Recommendation Systems
+## Session 1: Introducing Recommendation Systems (40 minutes)
 - Sourcing data
   - Determining implicit and explicit data
   - User behavioral data
