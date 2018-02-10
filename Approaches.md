@@ -1,1 +1,1 @@
-![Recommendation Systems Approaches](images/Recommendation Systems.jpg)
+![Recommendation Systems Approaches](https://github.com/ziababar/recommender/blob/master/images/Recommendation Systems.jpg)
